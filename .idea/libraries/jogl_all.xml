@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jogl-all">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Libs_OpenGL/jogl-all.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Libs_OpenGL/jogl-all-natives-macosx-universal.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Libs_OpenGL/gluegen-rt.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Libs_OpenGL/gluegen-rt-natives-macosx-universal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
